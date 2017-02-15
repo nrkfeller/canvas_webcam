@@ -1,0 +1,10 @@
+.booth{
+  height:600px;
+  width:400px;
+  background:#ccc;
+  border:10px solid #ddd;
+}
+
+#camera {
+  -webkit-filter:sepia(100%);
+}
